@@ -1,0 +1,18 @@
+Create a database name "feedback_system"
+
+Update the datbase records if any want  "dbconfig.php" file
+
+Admin Login Details
+
+user: bt19cse019@nituk.ac.in
+pass: Ravindra
+
+
+Student : 
+
+user: test@nituk.ac.in
+pass: test
+
+Teacher 
+maheepsingh@nituk.ac.in
+Maheep
